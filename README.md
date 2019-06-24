@@ -4,6 +4,8 @@
 * E-mail : jnssanaee@nate.com
 * Github : [https://github.com/jnssanaee](https://github.com/jnssanaee)
 
+<br /><br />
+
 # 경력
 * [교보라이프플래닛](https://lifeplanet.co.kr)
     - UI Developer
@@ -15,8 +17,10 @@
     - Markup Developer
     - 기간 : 2010.6-2011.7  
 
+<br /><br />
+
 # 프로젝트
-## 교보라이프플래닛 <img src="https://www.lifeplanet.co.kr/resources/images/common/lifeplanet_logo.png" width="75" />
+## 교보라이프플래닛 <img src="https://www.lifeplanet.co.kr/resources/images/common/lifeplanet_logo.png" width="75" />  
 `2014.2-2019.5`  
 
 UX Team에서 UI개발을 했습니다.  
@@ -47,7 +51,7 @@ UX Team에서 UI개발을 했습니다.
 웹접근성 Team에서 Markup 개발자로 지냈습니다.
 - 웹 접근성 품질마크 획득 (워크넷, 공간정보 중앙교육센터, 방송통신고등학교 등 다수)
 
---- 
+<br /><br />
 
 # 학력
 * 방송통신대학교 컴퓨터과학과 졸업 (2011.3-2016.2)
