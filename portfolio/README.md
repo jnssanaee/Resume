@@ -37,7 +37,10 @@
 * 기간 : 프로젝트마다 상이
 * 성과 : Sass 도입 등
 
-<br /><br />
+<br>
+
+---
+<br />
 
 ### LGCNS <img src="https://m.lgcns.co.kr/Content/201704/images/mlogo.png" width="63" />
 
@@ -48,7 +51,10 @@
 * 기간 : 2.5년
 * 성과 : LIG투자증권, 교보생명 등 수주
 
-<br /><br />
+<br>
+
+---
+<br />
 
 ### 하늘연소프트
 
