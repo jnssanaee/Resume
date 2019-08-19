@@ -2,7 +2,7 @@
 
 ### 교보라이프플래닛 <img src="https://www.lifeplanet.co.kr/resources/images/common/lifeplanet_logo.png" width="75" />
 
-#### 웹사이트 성능 최적화
+<span style="color:red">#### 웹사이트 성능 최적화</span>
 * 소개 : 리소스 로딩 개선을 통한 성능 최적화 프로젝트
 * 역할 : 단독 진행
 * 참여도 : 100%
@@ -12,7 +12,7 @@
 
 <br />
 
-#### PC, Mobile 리뉴얼
+<span style="color:red">#### PC, Mobile 리뉴얼</span>
 * 소개 : PC, Mobile 주요 페이지 (메인, 설계, 청약 등) 리뉴얼
 * 역할 : Leader 퍼블리셔 (레이아웃 및 주요 페이지 작업, 일정관리)
 * 참여도 : 70%
@@ -21,7 +21,7 @@
 
 <br />
 
-#### 코딩 컨벤션 작성
+<span style="color:red">#### 코딩 컨벤션 작성</span>
 * 소개 : HTML, CSS, UI 관련 JS, 웹접근성, 페이지 점검 체크리스트 작성
 * 역할 : 단독 진행
 * 참여도 : 100%
@@ -30,7 +30,7 @@
 
 <br />
 
-#### 신규서비스 추가
+<span style="color:red">#### 신규서비스 추가</span>
 * 소개 : 360플래닛, 나의리얼플래너 등 신규서비스 추가
 * 역할 : Leader 퍼블리셔 (레이아웃 및 주요 페이지 작업, 일정관리)
 * 참여도 : 70%
@@ -44,7 +44,7 @@
 
 ### LGCNS <img src="https://m.lgcns.co.kr/Content/201704/images/mlogo.png" width="63" />
 
-#### UI Framewoke 제작
+<span style="color:red">#### UI Framewoke 제작</span>
 * 소개 : Table, Tab, Dialog, Menu 등 웹 제작 시 자주사용되는 컴포넌트 제작
 * 역할 : Leader 퍼블리셔 (UI기획, 퍼블리싱)
 * 참여도 : 100%
@@ -84,7 +84,7 @@
 
 <br />
 
-#### 방송통신고등학교 웹 접근성 고도화
+<span style="color:red">#### 방송통신고등학교 웹 접근성 고도화</span>
 * 소개 : 접근성이 준수되지 않은 사이트 웹 접근성 고도화
 * 역할 : Main 퍼블리셔 (퍼블리싱)
 * 참여도 : 100%
